@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/LoadI"
+        android:title="Cargar imagen"
+    />
+    
+    <item
+        android:id="@+id/LoadIApp"
+        android:title="Cargar imagen de aplicación"
+    />
+    
+    <item
+        android:id="@+id/SaveI"
+        android:title="Salvar imagen"
+    />
+    
+    
+    <item
+        android:id="@+id/NText"
+        android:title="Nuevo texto"
+    />
+    
+    
+    <item
+        android:id="@+id/DeleteAllT"
+        android:title="Borrar todo"
+    />
+    
+    
+    <item
+        android:id="@+id/TexOpt"
+        android:title="Opciones de fuente"
+    />
+    
+    
+    <item
+        android:id="@+id/About"
+        android:title="Acerca de IMAC"
+    />
+    
+    
+    <item
+        android:id="@+id/Exit"
+        android:title="Exit"
+    />
+    
+</menu>
+

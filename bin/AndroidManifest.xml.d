@@ -1,0 +1,2 @@
+F:\AIIF\SegAll\ENTERPRISE\ANDROID\EJERCICIOS\IMAC\bin\AndroidManifest.xml : \
+F:\AIIF\SegAll\ENTERPRISE\ANDROID\EJERCICIOS\IMAC\AndroidManifest.xml \
